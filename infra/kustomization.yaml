@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
 - metrics-server-app.yaml
 - ingress-nginx-app.yaml
-- infra-app.yaml
